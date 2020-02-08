@@ -1,20 +1,20 @@
 # --- General options --- #
 
 # Name of website
-title: Primates
+title: Cycom
 
 # Short description of your site
-description: Content for Geeks
+description: Esports & Fun
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-url: "https://primates.dev"
+#url: "https://primates.dev"
 
 # baseurl should be an empty string
-baseurl: ""
+#baseurl: ""
 
 # --- Navigation bar options --- #
 
