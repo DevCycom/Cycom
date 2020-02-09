@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: StanGirard/Primates
+  repo: StanGirard/Cycom
   branch: master
   open_authoring: true
 
