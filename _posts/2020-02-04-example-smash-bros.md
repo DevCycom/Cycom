@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here is an example for smash bros
+title: Smash Bros is the best
 subtitle: Love smash bros
 tags:
   - Smash
