@@ -86,13 +86,13 @@ url-pretty: "Cycom.org"
 # --- Web Statistics Section --- #
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
-gtag: "UA-129019066-8"
+# gtag: "UA-129019066-8"
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-129019066-8"
+# google_analytics: "UA-129019066-8"
 
 # Google Tag Manager ID
-gtm: "UA-129019066-8"
+# gtm: "UA-129019066-8"
 
 
 # --- Comments --- #
