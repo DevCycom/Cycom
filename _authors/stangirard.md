@@ -5,7 +5,7 @@ subtitle: 'My Impressive boring life :D'
 name: stan_girard
 display_name: Stanislas Girard
 email: girard.stanislas@pm.me
-web: 'https://primates.dev/authors/stangirard'
+web: 'https://primates.dev/'
 css: /css/aboutme.css
 position: Chief Editor
 ---
