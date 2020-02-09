@@ -22,7 +22,6 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Subtitle", name: "subtitle", widget: "text"}
       - {label: "Tags", name: "tags", widget: "list"}
-      - {label: "Category", name: "category",widget: "relation",collection: "categories",searchFields: ["title"],valueField: "title",displayFields: ["title"], multiple: true, default: "Undefined", required: false}
       - {label: "Landscape Image", name: "bigimg", widget: "image", required: false}
       - {label: "Image", name: "image", widget: "image", required: false}
       - {label: "Share Image", name: "share-img", widget: "image", required: false}
@@ -52,23 +51,23 @@ collections:
       - {label: "LinkedIn Username",name: "linkedin_username",widget: "string",required: false}
       - {label: "Medium Username",name: "github_username",widget: "string",required: false}
       - {label: "Body", name: "body", widget: "markdown"}
-  - label: "Categories"
-    name: "categories"
-    folder: "category"
-    create: true
-    editor:
-      preview: false
-    slug: "{{slug}}"
-    preview_path: "category/{{slug}}"
-    extension: "md"
-    fields:
-      - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Subtitle", name: "subtitle", widget: "text"}
-      - {label: "Landscape Image", name: "bigimg", widget: "image", required: false }
-      - {label: "Image", name: "image", widget: "image", required: false}
-      - {label: "Share Image", name: "share-img", widget: "image", required: false }
-      - {label: "Description",name: "description",widget: "string",required: false}
-      - {label: "Body", name: "body", widget: "markdown"}
+  # - label: "Categories"
+  #   name: "categories"
+  #   folder: "category"
+  #   create: true
+  #   editor:
+  #     preview: false
+  #   slug: "{{slug}}"
+  #   preview_path: "category/{{slug}}"
+  #   extension: "md"
+  #   fields:
+  #     - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
+  #     - {label: "Title", name: "title", widget: "string"}
+  #     - {label: "Subtitle", name: "subtitle", widget: "text"}
+  #     - {label: "Landscape Image", name: "bigimg", widget: "image", required: false }
+  #     - {label: "Image", name: "image", widget: "image", required: false}
+  #     - {label: "Share Image", name: "share-img", widget: "image", required: false }
+  #     - {label: "Description",name: "description",widget: "string",required: false}
+  #     - {label: "Body", name: "body", widget: "markdown"}
       
   
