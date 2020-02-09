@@ -28,22 +28,6 @@ use-site-title: true
 
     <p class="post-meta">
       Posted on {{ post.date | date: site.date_format }}
-      <!-- Add Read Time for the post -->
-      - {% include read-time.html content=post.content %}
-      {% if post.author.size == 1 %}
-      {% for authors_post in post.author %}
-      {% assign author = site.authors | where: "name", authors_post | first %}
-      <!-- Personal Info. -->
-      by <a class="authors" href="{{ author.web }}">{{ author.display_name }}</a>
-      {% endfor %}
-      {% endif %}
-      {% if post.author.size > 1 %}
-      by 
-      {% for authors_post in post.author %}
-      {% assign author = site.authors | where: "name", authors_post | first %}
-      <a class="authors" href="{{ author.web }}">{{ author.display_name }}</a>
-      {% endfor %}
-      {% endif %}
     </p>
 
     <div class="post-entry-container">
