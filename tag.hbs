@@ -1,0 +1,18 @@
+{{!< default}}
+{{!-- The tag above means - insert everything in this file into the {body} of the default.hbs template --}}
+
+{{#tag}}
+
+{{!-- custom Styles For tag <body> --}}
+{{#contentFor "special_body_class"}}is-tag{{/contentFor}}
+
+<section class="tag site-archive">
+    <div class="container u-textAlignCenter">
+        <h1 class="site-archive-title u-textCapitalize u-fontSizeJumbo u-md-fontSize36 u-underline u-fontWeightMedium">{{name}}</h1>
+        {{#if description}}<p class="site-archive-des u-fontSize20">{{description}}</p>{{/if}}
+    </div>
+</section>
+{{/tag}}
+
+{{!-- The tag below includes the post loop - partials/loop.hbs --}}
+{{>"loop"}}
