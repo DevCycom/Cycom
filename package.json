@@ -1,6 +1,6 @@
 {
-  "name": "simply",
-  "description": "simply theme for ghost by @GodoFredoNinja",
+  "name": "cycom",
+  "description": "Cycom Theme",
   "demo": "https://primates.dev",
   "version": "0.3.3",
   "engines": {
@@ -31,11 +31,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/godofredoninja/simply"
+    "url": "https://github.com/StanGirard/Cycom/"
   },
   "bugs": {
-    "url": "https://github.com/godofredoninja/simply/issues",
-    "email": "hello@godofredo.ninja"
+    "url": "https://github.com/StanGirard/Cycom/issues",
+    "email": "stan@primates.dev"
   },
   "config": {
     "posts_per_page": 18,
