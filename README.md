@@ -1,9 +1,5 @@
 # Cycom
 
-[![Ghost version](https://img.shields.io/badge/Ghost-3.x-brightgreen.svg)](https://github.com/TryGhost/Ghost)
-[![Donate](https://img.shields.io/badge/donate-paypal-blue.svg)](https://www.paypal.me/godofredoninja)
-[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-%23FF813F)](https://www.buymeacoffee.com/GodoFredoNinja)
-
 > *Simple and Elegant Theme.*
 
 Hello :smile: , I created this theme for Ghost with inspiration from [Medium](https://medium.com/).
