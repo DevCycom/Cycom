@@ -1,17 +1,5 @@
 # Cycom
 
-> *Simple and Elegant Theme.*
-
-Hello :smile: , I created this theme for Ghost with inspiration from [Medium](https://medium.com/).
-It is available for free so you can use on your site. If you have any suggestions to improve the theme,  you can send me a tweet [@GodoFredoNinja](https://goo.gl/y3aivK)
-
-## If you have a :heart: and value my work. :pray: Please, help me with a small donation on [Paypal](https://www.paypal.me/godofredoninja) or [Here](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=Y7UB5Q8GVN3HN&source=url). It'll help motivate me to update the theme with many improvements
-
-[![donate](./donate.gif)](https://www.paypal.me/godofredoninja)
-
-:arrow_right: If you still don't have a **Hosting for your Ghost**. Use [Digital Ocean](https://m.do.co/c/710a27a3b3de) using my [referral link]((https://m.do.co/c/710a27a3b3de)) and you will get free a **$50 credit** to use in [Digital Ocean]((https://m.do.co/c/710a27a3b3de)). This way you will also be helping me.
-
-[![Simply free theme for ghost](./screenshot.jpg)](https://godofredo.ninja)
 
 ## Demo
 
